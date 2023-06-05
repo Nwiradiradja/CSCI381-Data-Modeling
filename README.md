@@ -1,4 +1,4 @@
-# CSCI381-Data-Modeling
+# Data Modeling
 
 ## Streaming Movies Project
 * Data Model for streaming platforms such as netflix, amazon prime etc.
